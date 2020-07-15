@@ -15,7 +15,7 @@ def menu():
 
     Script echo por MCL
     """
-    os.system('cls') # NOTA para windows tienes que cambiar clear por cls
+    os.system('clear') # NOTA para windows tienes que cambiar clear por cls
     print('')
     print('')
     print("\033[2;34m"+'Recuerden que esta es la primera fase del script'+"\033[0;m")
